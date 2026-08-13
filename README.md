@@ -2,7 +2,7 @@
 
 面向 Windows 新手的纸艺拼贴视频 Codex Skill。它把环境检查、分镜、中文配音、Remotion 渲染、音乐混合和成片验收整理成一套可重复使用的流程。
 
-[![恐龙灭绝纸艺拼贴静态封面](./preview.jpg)](./恐龙灭绝-完整成片-配音加音乐-无音效.mp4)
+[![恐龙灭绝纸艺拼贴静态封面](./dinosaur-cover.jpg)](./恐龙灭绝-完整成片-配音加音乐-无音效.mp4)
 
 > 点击恐龙封面观看完整成片：1920×1080，中文男声配音加背景音乐，无音效。
 
@@ -65,7 +65,7 @@ paper-collage-video-windows/
 ├─ scripts/check_windows_video_env.ps1
 ├─ references/windows-troubleshooting.md
 ├─ references/audio-and-export.md
-├─ preview.jpg
+├─ dinosaur-cover.jpg
 └─ 恐龙灭绝-完整成片-配音加音乐-无音效.mp4
 ```
 
